@@ -2,7 +2,7 @@
 
 A Databricks Lakeflow Designer project that demonstrates an end-to-end data pipeline using the medallion architecture pattern. The workflow ingests raw source files, transforms them through bronze and silver layers, and produces a final gold-layer output for analytics and reporting.
 
-![Lakeflow Designer Workflow](Project_screenshotS/Lakeflow_Designer_View.png)
+![Lakeflow Designer Workflow](Project_screenshots/Lakeflow_Designer_View.png)
 
 ## About Lakeflow Designer
 
@@ -76,7 +76,7 @@ In this project, I built a Lakeflow Designer pipeline with:
 
 This screenshot shows the full Lakeflow Designer workflow created in Databricks:
 
-![Lakeflow Designer Project Screenshot](project_screenshots/Catalog_Structure.png)
+![Lakeflow Designer Project Screenshot](Project_screenshots/Catalog_Structure.png)
 
 ## Key Learnings
 
