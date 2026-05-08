@@ -6,15 +6,15 @@ A Databricks Lakeflow Designer project that demonstrates an end-to-end data pipe
 
 ## About Lakeflow Designer
 
-Lakeflow Designer is a visual, no-code, AI-native experience in Databricks that helps users build data preparation and analytics workflows using a drag-and-drop canvas and natural language support. It is designed to make data workflows easier to create, understand, and maintain while still staying governed and production-ready through Unity Catalog. [web:793][web:787]
+Lakeflow Designer is a visual, no-code, AI-native experience in Databricks that helps users build data preparation and analytics workflows using a drag-and-drop canvas and natural language support. It is designed to make data workflows easier to create, understand, and maintain while still staying governed and production-ready through Unity Catalog. 
 
 ![Lakeflow Designer Interface](https://pplx-res.cloudinary.com/image/upload/pplx_search_images/7b9a67270fc682280a715166f92f5679d782eeab.jpg)
 
-Lakeflow Designer is useful because it lets you visually organize a data pipeline from ingestion to transformation to output, instead of writing every step manually. This is especially helpful for ETL and ELT workflows, where clarity, modularity, and governance matter. [web:793][web:787]
+Lakeflow Designer is useful because it lets you visually organize a data pipeline from ingestion to transformation to output, instead of writing every step manually. This is especially helpful for ETL and ELT workflows, where clarity, modularity, and governance matter. 
 
 ![Medallion Architecture](https://pplx-res.cloudinary.com/image/upload/pplx_search_images/5954c8873ba84456e275153d6aa5e7a8e3b3cb9b.jpg)
 
-The medallion approach used in this project follows the common Bronze, Silver, and Gold layers pattern. Bronze stores raw ingested data, Silver contains cleaned and transformed data, and Gold contains business-ready output for analytics. [web:788][web:786]
+The medallion approach used in this project follows the common Bronze, Silver, and Gold layers pattern. Bronze stores raw ingested data, Silver contains cleaned and transformed data, and Gold contains business-ready output for analytics.
 
 ## Project Overview
 
@@ -89,8 +89,7 @@ This project helped me understand:
 
 ## Why Lakeflow Designer Matters
 
-Lakeflow Designer is valuable because it reduces the complexity of pipeline creation while keeping the workflow production-oriented. It helps bridge the gap between technical and non-technical users, while still supporting governance, scalability, and maintainability. [web:793][web:787]
-
+Lakeflow Designer is valuable because it reduces the complexity of pipeline creation while keeping the workflow production-oriented. It helps bridge the gap between technical and non-technical users, while still supporting governance, scalability, and maintainability. 
 ## Conclusion
 
 This project is a practical example of building a modern Databricks workflow using Lakeflow Designer and medallion architecture. It shows how raw data can be transformed into reliable business-ready output through a clear and scalable pipeline design.
